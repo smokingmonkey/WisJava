@@ -1,0 +1,13 @@
+Tue May 05 10:20:42 COT 2020
+"MonkeyMode" was evalueated with 15 cards.
+
+Results.
+ 
+
+Total time: 0:0 (m:s).
+
+Hit Total: 1.
+Perseverance Total: 2.
+Fail to keep set Total: 0.
+
+

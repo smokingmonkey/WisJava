@@ -1,0 +1,16 @@
+"trial index","choice index","criterion index","time between answers [ms]",H,P,FKS,"MC color","MC figure","MC amount"
+0,2,1,4,false,false,false,false,false,false
+1,1,1,2,false,false,false,false,false,false
+2,0,1,1,false,false,false,false,false,false
+3,3,1,1,false,false,false,false,false,false
+4,0,1,1,false,false,false,false,false,true
+5,3,1,2,false,false,false,false,false,false
+6,0,1,1,false,false,false,false,false,false
+7,2,1,1,false,false,false,true,false,true
+8,2,1,2,false,false,false,false,false,false
+9,3,1,1,false,false,false,false,false,false
+10,1,1,1,false,false,false,false,false,false
+11,3,1,1,true,false,false,false,true,true
+12,0,1,1,false,false,false,false,false,true
+13,1,1,1,false,true,false,false,false,true
+14,2,1,1,false,true,false,true,false,true

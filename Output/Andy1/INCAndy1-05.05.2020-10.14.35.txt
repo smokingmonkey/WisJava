@@ -1,0 +1,13 @@
+Tue May 05 10:15:11 COT 2020
+"Andy1" was evalueated with 15 cards.
+
+Results.
+ 
+
+Total time: 0:36 (m:s).
+
+Hit Total: 11.
+Perseverance Total: 0.
+Fail to keep set Total: 1.
+
+

@@ -1,0 +1,13 @@
+Mon Apr 27 21:40:05 COT 2020
+"federico" was evalueated with 15 cards.
+
+Results.
+ 
+
+Total time: 0:38 (m:s).
+
+Hit Total: 13.
+Perseverance Total: 0.
+Fail to keep set Total: 1.
+
+
